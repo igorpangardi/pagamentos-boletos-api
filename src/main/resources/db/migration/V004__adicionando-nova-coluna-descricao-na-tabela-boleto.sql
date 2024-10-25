@@ -1,0 +1,1 @@
+alter table boleto add column descricao varchar(255) null;
